@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ZC563900")(type "KiCad")(uri "/home/jp/Documents/Projects/IOT_Data_Monitoring/PCB Design/libraries/ZC563900/ZC563900.kicad_sym")(options "")(descr ""))
+)
